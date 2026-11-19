@@ -164,8 +164,8 @@ Rule-implied policy rate (%) from the **Fed's** estimated pre-crisis reaction fu
 | 1.5% | −1.0 | 0.8 | 2.6 | 4.4 | 6.2 |
 | 2.0% | −0.2 | 1.6 | **3.4** | 5.2 | 7.0 |
 | 2.5% | 0.6 | 2.4 | 4.2 | 6.0 | 7.7 |
-| 3.0% | 1.4 | 3.2 | 4.9 | 6.7 | 8.5 |
-| 3.5% | 2.2 | 3.9 | 5.7 | 7.5 | 9.3 |
+| 3.0% | 1.4 | 3.2 | 5.0 | 6.7 | 8.5 |
+| 3.5% | 2.2 | 4.0 | 5.7 | 7.5 | 9.3 |
 | 4.0% | 2.9 | 4.7 | 6.5 | 8.3 | 10.1 |
 
 - With inflation at target and no output gap, the Fed's own rule implies a **neutral nominal rate of about 3.4%**, close to today's 3.88%. Current policy would be about right **if inflation and growth normalised**. The gap with the rule comes entirely from inflation being above target and the economy running hot.
