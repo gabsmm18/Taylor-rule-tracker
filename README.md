@@ -3,7 +3,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gabsmm18/taylor-rule-tracker/blob/main/taylor_rule_tracker.ipynb)
 
 **Author:** Mattia Mariani  
-**Last updated:** 18 November 2026
 
 ## Summary
 
