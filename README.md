@@ -52,7 +52,7 @@ The key implication is the **Taylor principle**: the policy rate must rise *more
 - **The output gap** cannot be observed. For the US the Congressional Budget Office (CBO) publishes an official estimate of potential GDP; for the euro area there is no free equivalent, so the gap is estimated with a Hodrick-Prescott filter.
 - All series are converted to **quarterly averages**. Samples: Fed 1987Q3-2026Q3 (157 quarters), ECB 1999Q1-2026Q1 (109 quarters, limited by the latest euro-area GDP release).
 
-![Inputs](01_inputs.png)
+![Inputs](figures/01_inputs.png)
 
 ## Methodology
 
@@ -78,7 +78,7 @@ The equation is estimated by OLS in linear form with HAC (autocorrelation-robust
 
 ### 1. The original Taylor rule
 
-![Original Taylor rule](02_original_taylor_rule.png)
+![Original Taylor rule](figures/02_original_taylor_rule.png)
 
 Average gap between the actual policy rate and the Taylor (1993) rule ($r^* = 2\%$), in percentage points (negative = policy looser than the rule):
 
@@ -96,7 +96,7 @@ Average gap between the actual policy rate and the Taylor (1993) rule ($r^* = 2\
 
 ### 2. Estimated reaction functions
 
-![Estimated coefficients](03_estimated_coefficients.png)
+![Estimated coefficients](figures/03_estimated_coefficients.png)
 
 | | Quarters | ρ | β_π (s.e.) | β_y (s.e.) | Implied r* | p-value (β_π ≤ 1) | R² |
 |---|---|---|---|---|---|---|---|
@@ -119,7 +119,7 @@ The ECB's response to the output gap, by contrast, is positive and significant (
 
 ### 3. Current policy stance
 
-![Policy tracker](04_policy_tracker.png)
+![Policy tracker](figures/04_policy_tracker.png)
 
 | | Fed | ECB |
 |---|---|---|
@@ -140,7 +140,7 @@ The ECB's response to the output gap, by contrast, is positive and significant (
 
 ### 4. Market pricing
 
-![Market pricing](05_market_pricing.png)
+![Market pricing](figures/05_market_pricing.png)
 
 | | Fed | ECB |
 |---|---|---|
@@ -155,7 +155,7 @@ The 2-year yield also contains a term premium, so these spreads are an approxima
 
 ### 5. Scenarios
 
-![Scenarios](06_scenarios.png)
+![Scenarios](figures/06_scenarios.png)
 
 Rule-implied policy rate (%) from the **Fed's** estimated pre-crisis reaction function:
 
